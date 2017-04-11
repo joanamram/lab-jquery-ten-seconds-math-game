@@ -1,0 +1,31 @@
+.mainContainer{
+background-color: pink;
+display: block;
+}
+
+.superiorBox{
+background-color: red;
+
+}
+
+.limit{
+background-color: black;
+}
+
+
+.operator{
+background-color: blue;
+}
+
+.inferiorBox{
+background-color: purple;
+}
+
+
+.operation-result{
+background-color: yellow;
+}
+
+.timer{
+background-color: orange;
+}
